@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title></title>
+</head>
+<body>
+      <p class="ABC">HTML</p>
+      <p class="ABC">CSS</p>
+      <p class="ABC">BS</p>
+      <p class="ABC">JS</p>
+      <ul>
+      	<li>AEC</li>
+      	<li>ACET</li>
+      	<li>ACOE</li>
+      </ul>
+      <script type="text/javascript">
+      	let p = document.getElementsByClassName('ABC');
+      	console.log(p);
+      	p[0].innerHTML = 'hyper text markup language';
+      	p[2].innerHTML = 'Bootstrap';
+      	let list=document.getElementsByTagName('li');
+      	console.log(list);
+      	list[0].innerText = 'Aditya Engineering College';
+      </script>
+</body>
+</html>

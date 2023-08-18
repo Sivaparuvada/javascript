@@ -1,0 +1,39 @@
+.a{
+	margin-left:50px;
+}
+.b{
+	padding-right: 30px;
+	width:500px;
+	height:400px;
+}
+.col{
+	padding-top: 20px;
+}
+.c{
+	padding-right: 150px;
+	padding-left:50px;
+}
+.d{
+	padding-top:10px;
+	padding-bottom:10px;
+	padding-right: 40px;
+	padding-left: 50px;
+}
+.e{
+	margin-top: 20px;
+}
+.f{ 
+	height: 30px;
+	width: 60px;
+	padding-right:5px;
+}
+.g{
+	color:blue;
+	padding-left: 270px;
+	position: relative;
+	bottom: 30px;
+}
+.abc{
+	padding-left: 100px;
+	padding-top: 10px;
+}
